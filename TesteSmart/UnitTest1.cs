@@ -12,6 +12,8 @@ namespace TesteSmart
         [Test]
         public void Test1()
         {
+
+            var teste = 
             Assert.Pass();
         }
     }

@@ -58,9 +58,11 @@ namespace SmartMed.Controllers
             using (var db = new SmartContext())
             {
                 var item = db.TbMedication.Where(x => x.ID == id).FirstOrDefault();
-
-                db.Remove(item);
-                db.SaveChanges();
+                if (item != null)
+                {
+                    db.Remove(item);
+                    db.SaveChanges();
+                }
             }
         }
     }

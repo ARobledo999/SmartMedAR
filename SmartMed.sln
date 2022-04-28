@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartMed", "SmartMed\SmartMed.csproj", "{9F74E714-3D72-4B1E-A596-F6E0D0750306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSmart", "TesteSmart\TesteSmart.csproj", "{28BEE5E9-7C62-4755-8E13-51817304D814}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMedTests", "SmartMedTests\SmartMedTests.csproj", "{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{9F74E714-3D72-4B1E-A596-F6E0D0750306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F74E714-3D72-4B1E-A596-F6E0D0750306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F74E714-3D72-4B1E-A596-F6E0D0750306}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28BEE5E9-7C62-4755-8E13-51817304D814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28BEE5E9-7C62-4755-8E13-51817304D814}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28BEE5E9-7C62-4755-8E13-51817304D814}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28BEE5E9-7C62-4755-8E13-51817304D814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
