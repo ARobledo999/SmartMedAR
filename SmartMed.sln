@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartMed", "SmartMed\SmartM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMedTests", "SmartMedTests\SmartMedTests.csproj", "{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SmartMedDB", "SmartMedDB\SmartMedDB.sqlproj", "{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BA4E218-91FF-4FBF-AC5F-E1060E8B808D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AEB0E4-D5BB-4B32-B64A-CAD84D73747A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
